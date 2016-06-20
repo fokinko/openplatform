@@ -18,7 +18,7 @@
 
 ## What is and how the OpenPlatform works?
 
-The OpenPlatform is a simple node.js and total.js based application that can manage third party applications and provide them with basic services like users and roles management. Each application is executed in the OpenPlatform's context in an HTML `iframe`. Depending on the access rights, running applications can read list platform's of users and applications, create notifications and communicate with other applications via service worker. Administrator has complete control over the users' and applications' access rights.
+The OpenPlatform is a simple node.js and total.js based application that can manage third party applications and provide them with basic services like users and roles management. Each application is executed in the OpenPlatform's context in an HTML `iframe`. Depending on the access rights, running applications can read lists of platform of users and applications, create notifications and communicate with other applications via service worker. Administrator has complete control over the users' and applications' access rights.
 
 The platform supports two ways of communication:
 
